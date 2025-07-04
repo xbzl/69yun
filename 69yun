@@ -9,6 +9,6 @@
 #############################################
 
 # > 精简版
-DOMAIN, https://emby1.69yun69.com:443
-DOMAIN, https://emby2.69yun69.com:443
-DOMAIN, https://emby3.69yun69.com:443
+DOMAIN, emby1.69yun69.com
+DOMAIN, emby2.69yun69.com
+DOMAIN, emby3.69yun69.com
