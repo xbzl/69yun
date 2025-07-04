@@ -1,0 +1,14 @@
+#!name=69云
+#!desc=方便域名进行策略更换
+#!author=无名
+#!homepage=
+#!icon=
+#!raw-url=
+#!tg-group=
+#!date=2025-07-04 10:50:26
+#############################################
+
+# > 精简版
+DOMAIN, https://emby1.69yun69.com:443
+DOMAIN, https://emby2.69yun69.com:443
+DOMAIN, https://emby3.69yun69.com:443
